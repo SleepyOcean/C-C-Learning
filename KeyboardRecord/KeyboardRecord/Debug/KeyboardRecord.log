@@ -1,0 +1,11 @@
+﻿生成启动时间为 7/14/2016 11:30:28 AM。
+     1>项目“D:\VsProject\KeyboardRecord\KeyboardRecord\KeyboardRecord.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         正在跳过...(未检测到相关更改)
+         main.cpp
+     1>已完成生成项目“D:\VsProject\KeyboardRecord\KeyboardRecord\KeyboardRecord.vcxproj”(ClCompile 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:00.21
